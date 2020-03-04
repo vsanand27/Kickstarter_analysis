@@ -24,4 +24,4 @@ c)	Actual within 95% confidence interval to be classified as successful
 1.	Goal and the outcomes may differ between countries based on customer profiles
 2.	$ Goal assigned may not be true reflection of play performance.  First, Goals could be assigned lower and conservative to increase the chances of classifying them as successful.  Second, in real world, any actual with-in 95% confidence interval can potentially be deemed as successful.
 
-![alt text](https://github.com/vsanand27/PyBer_Analysis/blob/master/analysis/Data_Analytics_Summary.PNG)
+![alt text](https://github.com/vsanand27/Kickstarter_analysis/blob/master/Challenge%20Assignment%201%20-%20Outcomes%20Based%20On%20Goals.png)
