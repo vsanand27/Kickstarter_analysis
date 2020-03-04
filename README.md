@@ -5,7 +5,7 @@ Performing analysis on Kickstarter dataset to uncover trends
 
 # Outcomes Based on Goals
 
-#Objective: To review “Plays” as subcategory by Goal to review Outcome.
+Objective: To review “Plays” as subcategory by Goal to review Outcome.
 
 # Summary
 Based on our analysis, the takeaways show high level outcome trends.  The outcome based on “Goals” approach is very simplistic and the outcome may differ if reviewed by Geographic area, Customer Segmentation, and the re-defining “Success”.   
